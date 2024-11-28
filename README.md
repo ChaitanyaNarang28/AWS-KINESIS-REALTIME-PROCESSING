@@ -44,12 +44,7 @@ The system demonstrates key cloud computing concepts, including scalability, sec
 ## 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐃𝐢𝐚𝐠𝐫𝐚𝐦  
 *Coming Soon!*  
 
-## 𝐃𝐞𝐦𝐨  
-A live demo of the project is available [here](#).  
-
-### Screenshots  
-![Screenshot 1](#)  
-![Screenshot 2](#)  
+#
 
 ## 𝐆𝐞𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝  
 ### 1. **Clone the Repository**  
