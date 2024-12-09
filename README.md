@@ -41,8 +41,6 @@ The system demonstrates key cloud computing concepts, including scalability, sec
 | **Storage**       | AWS S3             | Static assets and backup                  |  
 | **Security**      | AWS IAM            | Role-based access control                 |  
 
-## 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐃𝐢𝐚𝐠𝐫𝐚𝐦  
-*Coming Soon!*  
 
 #
 
